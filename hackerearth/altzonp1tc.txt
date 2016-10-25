@@ -1,0 +1,21 @@
+1
+4 3
+Alice
+Bob
+Daniel
+Mike
+Bob
+97
+1
+Alice
+Mike
+24
+2
+Alice
+Bob
+Alice
+50
+3
+Bob
+Daniel
+Mike

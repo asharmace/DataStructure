@@ -1,0 +1,13 @@
+CustomerID, PageType
+123,HP
+245,Cart
+245,WishList
+abc,DP
+123,DP
+245,Shipping
+abc,CO
+abc,HUC
+456,HP
+123,CO
+456,Shipping
+123,HUC

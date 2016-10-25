@@ -1,0 +1,23 @@
+22
+1 shampoo
+1 bottle
+1 book
+1 watch
+2 ab shampoo
+2 ab book
+2 ab bottle
+2 ba shampoo
+2 aa shampoo
+2 bb shampoo
+2 bb book
+2 cd bottle
+2 aa watch
+2 cd watch
+3 ab book
+3 ab shampoo
+2 bb book;
+5
+2 ab shampoo
+5
+4 ab
+5 
