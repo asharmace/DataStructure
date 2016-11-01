@@ -3,7 +3,7 @@
 #include <string>
 using namespace std;
 
-bool verifyPassWord(string inputString)
+bool verifyPassword(string inputString)
 {
 	regex e1("[a-z]");
 	regex e2("[A-Z]");
@@ -18,7 +18,6 @@ bool verifyPassWord(string inputString)
 
 int main()
 {
-
 	cout << verifyPassWord("my.password1") <<endl; 
 	cout << verifyPassWord("my.Password1") <<endl; 
 	return 0;
