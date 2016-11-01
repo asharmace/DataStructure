@@ -1,4 +1,6 @@
 #include <iostream>
+#include <regex>
+#include <string>
 using namespace std;
 
 std::string swapAdjacentWords(std::string s) {
