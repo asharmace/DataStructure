@@ -117,8 +117,16 @@ int main()
     g.bfs(2);
     cout << "Following is Depth First Traversal (starting from vertex 2) \n";
     g.dfs(2);
+
+    Graph g2(6);
+    g2.addEdge(5, 2);
+    g2.addEdge(5, 0);
+    g2.addEdge(4, 0);
+    g2.addEdge(4, 1);
+    g2.addEdge(2, 3);
+    g2.addEdge(3, 1);
     cout << "Following is TopologicalSort \n";
-    g.topologicalSort();
+    g2.topologicalSort();
  
     return 0;
 }
